@@ -3,8 +3,6 @@
 	import SectionTitle from './section-title.svelte';
 	import Photo from './photo.svelte';
 	import Title from './title.svelte';
-	import Skills from './skills.svelte';
-	import Experience from './experience.svelte';
 	import Blob1 from '$lib/svg/blobs/blob1.svelte';
 	import Blob3 from '$lib/svg/blobs/blob3.svelte';
 </script>
@@ -22,28 +20,9 @@
 		<Photo />
 	</section>
 	<section class="about">
-		<SectionTitle>About</SectionTitle>
+		<SectionTitle>¿Quien Soy?</SectionTitle>
 		<p>
-			I have a passion for building fast, responsive and pretty UIs, bringing great designs to
-			reality and improving them as they get built. I love learning new things and applying them in
-			practical solutions, either improving existing services or building completely new ones.
-		</p>
-	</section>
-	<section class="work">
-		<SectionTitle>Professional Experience</SectionTitle>
-		<Experience />
-	</section>
-	<section class="education">
-		<SectionTitle>Education</SectionTitle>
-		<p>
-			Graduated as a{' '}
-			<b>Technologist in System Analysis and Development</b> at{' '}
-			<i>Centro Universitário da Serra Gaúcha</i>, 2018.
-    </p>
-	</section>
-	<section class="skills">
-		<SectionTitle>Skills</SectionTitle>
-		<Skills />
+			Mi nombre es Alba Londoño, soy profesora de Artes Plasticas y madre de dos hijos. Desde hace 6 años pertenezco al equipo de NIKKEN, ya que al recibir los beneficios de esta marca me fue inevitable compartirlo con el mundo, siempre te ofreceré la mejor atención.
 	</section>
 </article>
 
