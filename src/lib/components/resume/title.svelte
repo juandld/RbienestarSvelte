@@ -1,6 +1,6 @@
 <div class="resume-title">
-	<h1>Matheus Fantinel</h1>
-	<h5>Web Developer</h5>
+	<h1>Alba Londoño</h1>
+	<h5>6 años haciendo parte de Nikken</h5>
 </div>
 
 <style lang="scss">

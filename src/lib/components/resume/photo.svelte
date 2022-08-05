@@ -1,7 +1,7 @@
 <picture class="resume-photo">
-	<source srcset="/images/resume-avatar-dark.png" media="(prefers-color-scheme: dark)">
+	<source srcset="https://i.imgur.com/gRjmzpj.png" media="(prefers-color-scheme: dark)">
 	<img
-		src="/images/resume-avatar.png"
+		src="https://i.imgur.com/gRjmzpj.png"
 		alt="Matheus Fantinel's Avatar"
 	/>
 </picture>

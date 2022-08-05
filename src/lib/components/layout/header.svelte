@@ -1,19 +1,17 @@
 <script>
 	import Logo from '$lib/svg/logo.svelte';
 	import Socials from '$lib/components/base/socials.svelte';
-
-	export let animated = true;
 </script>
 
 <header>
 	<nav class="container">
 		<div class="left">
 			<a class="logo" href="/" alt="Site logo">
-				<Logo {animated} />
+				<Logo />
 			</a>
       <div class="links">
         <a href="/blog">Blog</a>
-        <a href="/resume">Resume</a>
+        <a href="/resume">Acerca de</a>
       </div>
 		</div>
 		<div class="right">

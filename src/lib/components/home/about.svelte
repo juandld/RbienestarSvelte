@@ -9,12 +9,11 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			I'm a developer aiming to build things that
-			<SparklingHighlight>spark joy</SparklingHighlight>
+			Purificador de aire
+			<SparklingHighlight>NIKKEN KENKO</SparklingHighlight>
 		</h2>
 		<p>
-			I believe software should be great for everyone — those who write it and those who use it —
-			and that bringing joy to problem-solving is the key to that.
+			Retiene partículas presentes en el aire, neutraliza olores y elimina partículas pequeñas, con una eficiencia del 99.9%.
 		</p>
 	</div>
 	<div class="avatar">

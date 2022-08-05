@@ -8,6 +8,6 @@ export const keywords = ['Matheus Fantinel', 'Matt Fantinel', 'Web Development',
 
 export const description = 'I\'m a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.'
 
-export const title = 'Matt Fantinel - Web Developer';
+export const title = 'Alba Londoño  - Web Developer';
 
 export const image = `${siteBaseUrl}/images/site-preview.png`;

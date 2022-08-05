@@ -5,10 +5,10 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">Hello, I'm Matt!</h1>
+	<h1 class="hello">Nikken</h1>
 	<p class="intro">
-    <span class="left">I build fun stuff on the web,</span>
-    <span class="right">and sometimes write about it.</span>
+    <span class="left">En toda Colombia,</span>
+    <span class="right">para tu salud y bienestar.</span>
   </p>
 	<div class="ctas">
 		<a id="projects-btn" href="#projects" class="button primary-light">
